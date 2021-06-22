@@ -21,7 +21,7 @@ This script accepts 3 inputs and generates 2 YML Files
 ### Sheet Name of the Above Excel sheet
 ### Config File which contains (bq.Table, bq.dataset, etc)
 ````
-python .\Run_YML_Creater.py "Mapping_Sheet" "Excel_sheet_name" "Config_file_name"
+python .\Recon.py
 ````
 
 ### Authors
