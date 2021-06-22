@@ -1,3 +1,4 @@
+#THIS SCRIPT WON'T RUN OUT OF THE BOX.
 # Recon-GCP-BQ-vs-DataModelling
 > Creating automated Reconcilliation script to check Integrity of the GCP BigQuery DWH with Data Modelling sheet created by client Data Modelling team. Also, to check the DDL statements of Oracle DB (Source) vs GCP BigQuery.
 This activity has reduced resource focusing on Manual Tasks by 99%. Fault tolerance is 1% in case of wrong input passed by triggers. 
