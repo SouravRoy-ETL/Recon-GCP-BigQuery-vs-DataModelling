@@ -6,6 +6,7 @@ This activity has reduced resource focusing on Manual Tasks by 99%. Fault tolera
 1) GCP BigQuery vs Data Modelling
 ![image](https://user-images.githubusercontent.com/85476817/122936035-78c62380-d38e-11eb-8177-816786eae0ef.png)
 2) DDL vs GCP BigQuery
+
 ![image](https://user-images.githubusercontent.com/85476817/122936490-d2c6e900-d38e-11eb-99a6-3e676644b54f.png)
 
 # Installing
